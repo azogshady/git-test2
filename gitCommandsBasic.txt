@@ -1,2 +1,7 @@
-*git init: initializes the current folder as a git repository. (Master branch for git)
-*
+"git init": initializes the current folder as a git repository. (Master branch for git)
+"git status": current status of the folder
+"git add ." : all the files in the current directory will be added to the staging area of the repository.
+once the fils/folders are added to the staging area, they(the snapshots) can then be committed to the repo.	
+
+"git commit -m 'message'" : commits the snapshots of the files/folders to the repo with the provided message.
+"git log" : see a brief log of commits.
