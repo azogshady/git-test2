@@ -1,0 +1,2 @@
+*git init: initializes the current folder as a git repository. (Master branch for git)
+*
